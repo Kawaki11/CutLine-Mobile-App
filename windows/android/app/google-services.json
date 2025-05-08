@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756241608528",
+    "project_id": "cutline-f876e",
+    "storage_bucket": "cutline-f876e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756241608528:android:55377b6dd7f5bcc3968655",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2g55Vzvr25KzLy0LPSaPyUYBJbSnE5n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
